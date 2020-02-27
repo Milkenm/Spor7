@@ -357,3 +357,5 @@ MigrationBackup/
 # Stuff
 desktop.ini
 *.lnk
+/_Dados
+/_Resources
